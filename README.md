@@ -4,6 +4,8 @@ you upload any jpg image and process it with this algorithm.
 You can try a working version by downloading the rar file and
 opening the executable file inside.
 
+All credit goes to [Daniel Shiffman](https://github.com/shiffman), from [The Coding Train](https://github.com/CodingTrain).
+
 Below you can see an example of the results of applying this 
 algorithm to an image:
 
